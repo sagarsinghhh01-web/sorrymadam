@@ -8,111 +8,111 @@
   // ─── 1. Romantic Reasons Data ───────────────────────────────────────
   const DEFAULT_REASONS = [
     {
-      text: "The way you laugh at your own jokes before you even finish telling them.",
+      text: "Mujhe aapki sabse achhi baat yahi lagti haiii ki aapko impress karne ke liye aapko kuch or banne ki zarurat nahi padtiii betuuuu aap jaisi ho naaa bas waise hi mujhe dil se achhi lagti ho🥺❤️",
       secretNote: "Every time your laugh fills the room, my whole world lights up. Your joy is my favourite melody in the universe.",
-      emoji: "😂", icon: "star",
-      polaroidCaption: "The sound of your pure joy",
-      quote: "In all the world, there is no heart for me like yours babyyyyy.",
-      chapter: "Chapter I ✦ Pure Sunshine",
+      emoji: "❤️", icon: "star",
+      polaroidCaption: "Just the way you are ❤️",
+      quote: "Mujhe aapko badalne ki zarurat kabhi mehsoos nahi huiii jaaaan",
+      chapter: "Chapter I ✦ Aap Jaisi Ho 🌸",
       theme: "rose"
     },
     {
-      text: "How you make silence feel like the most comfortable place in the world.",
+      text: "Aap chhoti chhoti baaton ko bhi dil se feel karti hoii betuuu or shayad isi wajah se aapka dil mujhe itna special lagta haiii jaaan 🫂❤️",
       secretNote: "With you, I never have to pretend. Sitting quietly next to you feels more complete than talking with anyone else.",
       emoji: "🌙", icon: "moon",
-      polaroidCaption: "A quiet, peaceful sanctuary",
-      quote: "Silence with you is sweeter than any song.",
-      chapter: "Chapter II ✦ Gentle Peace",
+      polaroidCaption: "Your heart feels like home 🫂",
+      quote: "Aap cheezon ko jis tarah feel karti ho naaa woh mujhe bahut apna lagta haii.",
+      chapter: "Chapter II ✦ Aapka Dil 🫀",
       theme: "navy"
     },
     {
-      text: "The little notes you leave that I find days later.",
+      text: "Sach bolun toh aapka gussa bhi mujhe bura nahi lagtaaa bachaaa kyunki usme bhi aapki feelings hoti hai❤️",
       secretNote: "I keep every note you ever write me in a little box. Each word is a warm reminder of how deeply you care.",
       emoji: "💌", icon: "letter",
-      polaroidCaption: "Words tucked in secret corners",
-      quote: "Every little letter carries your heart.",
-      chapter: "Chapter III ✦ Love Letters",
+      polaroidCaption: "Even your angry little moments 🥺❤️",
+      quote: "Aap naraz hoti ho tab bhi aap mujhe utni hi pyaari lagti hoii",
+      chapter: "Chapter III ✦ Aapka Gussa 🥺",
       theme: "blush"
     },
     {
-      text: "The way your eyes light up when you talk about something you truly love.",
+      text: "Aapki genuine smile dekhkar pata nahi kyun mere face par bhi smile aa jaati haiii… bina kisi reason ke 🥺🫂.",
       secretNote: "Watching you speak with passion is breathtaking. You radiate a sparkle that inspires me every single day.",
       emoji: "✨", icon: "sparkle",
-      polaroidCaption: "The sparkle in your eyes",
-      quote: "Your passion makes the whole world brighter.",
-      chapter: "Chapter IV ✦ Radiant Starlight",
+      polaroidCaption: "That smile I can never get enough of ❤️",
+      quote: "Aap smile karti ho naaa toh mera mood khud thoda better ho jaata haiii.",
+      chapter: "Chapter IV ✦ Aapki Smile ❤️",
       theme: "peach"
     },
     {
-      text: "How deeply and fiercely you care about the people in your life.",
+      text: "Jab aap chup ho jaati ho naaa bachaa toh bas mann karta hai aapke paas rahun bina zyada kuch poocheee ❤️.",
       secretNote: "Your empathy is boundless. The genuine kindness you show to others makes me fall in love with you all over again.",
       emoji: "💖", icon: "heart",
-      polaroidCaption: "Your fierce and gentle kindness",
-      quote: "You love with an open and boundless heart.",
-      chapter: "Chapter V ✦ Endless Grace",
+      polaroidCaption: "Even your silence feels special 🤍",
+      quote: "Aap kuch na bolo tab bhi mera mann aapke paas rehne ka karta haiii.",
+      chapter: "Chapter V ✦ Aapki Khamoshi 🫂",
       theme: "rose"
     },
     {
-      text: "Your strength on the days when everything feels impossible.",
+      text: "Aap kaise baat karti hoii kaise react karti hoii… pata nahi kyun aapki chhoti chhoti cheezein bhi mujhe yaad reh jaati hainii 🥺❤️.",
       secretNote: "Even when life gets heavy, your courage and perseverance shine through. You are the strongest person I know.",
       emoji: "🌿", icon: "leaf",
-      polaroidCaption: "Standing strong together",
-      quote: "In you, I found my greatest strength.",
-      chapter: "Chapter VI ✦ Unwavering Hope",
+      polaroidCaption: "Little things that became my favourites 🌸",
+      quote: "Aapki woh baatein jo aapke liye normal h mere liye yaad ban jaati hai.",
+      chapter: "Chapter VI ✦ Aapki Chhoti Chhoti Baatein 🌷",
       theme: "navy"
     },
     {
-      text: "The way you see beauty in the smallest, most ordinary moments.",
+      text: "Aapki woh chhoti chhoti cute harkatein dekhkar bas aapko aur pamper karne ka mann karta haiii 😭❤️.",
       secretNote: "A quiet sunset, a cup of coffee, a stray flower — you teach me to appreciate every sweet whisper of life.",
       emoji: "🌸", icon: "flower",
-      polaroidCaption: "Ordinary magic in every petal",
-      quote: "You make the simplest days unforgettable.",
-      chapter: "Chapter VII ✦ Blooming Wonder",
+      polaroidCaption: "My favourite little version of you 🥺",
+      quote: "Kabhi kabhi aapka cute sa bachpana dil ko bahut sukoon deta haii.",
+      chapter: "Chapter VII ✦ Aapka Bachpana 🤍",
       theme: "blush"
     },
     {
-      text: "How your voice is the first thing I want to hear every single morning.",
+      text: "Aap shayad usse normal samajhkar kar deti hoii… par main usme aapki sincerity feel karta hoon ❤️.",
       secretNote: "Hearing your sleepy morning voice instantly makes any day better. You are my morning sun and my evening star.",
       emoji: "☀️", icon: "sun",
-      polaroidCaption: "A morning sunshine melody",
-      quote: "Waking up to you is my favourite miracle.",
-      chapter: "Chapter VIII ✦ Morning Light",
+      polaroidCaption: "Your little ways of caring ❤️",
+      quote: "Aapki chhoti si care bhi mujhe bahut badi lagti haiii.",
+      chapter: "Chapter VIII ✦ Aapka Care Karna 🫂",
       theme: "peach"
     },
     {
-      text: "The warmth you bring into every room you walk into.",
+      text: "Aapki yahi baat mujhe achhi lagti haiii… chahe baat achhi ho ya buri aapke words me aapki real feelings hoti hainii 🥺.",
       secretNote: "You have an aura of comfort and warmth that pulls everyone in. Just being near you feels like a warm embrace.",
       emoji: "🕯️", icon: "candle",
-      polaroidCaption: "The warmth of your embrace",
-      quote: "You make every dark corner feel warm.",
-      chapter: "Chapter IX ✦ Glowing Flame",
+      polaroidCaption: "Always real, always you 🤍",
+      quote: "Aap jo feel karti hoii usse chhupane ke bajaye keh deti hoii.",
+      chapter: "Chapter IX ✦ Aapki Honesty 🫀",
       theme: "rose"
     },
     {
-      text: "How you remember every tiny detail I've ever told you.",
+      text: "Aapse baat karte waqt main bas main reh sakta hoon… aur honestly yeh feeling har kisi ke saath nahi miltiii 🫂.",
       secretNote: "The way you listen with your whole heart makes me feel so cherished and understood. You never miss a thing.",
       emoji: "🌟", icon: "star",
-      polaroidCaption: "Every tiny memory cherished",
-      quote: "You hold my story with such gentle care.",
-      chapter: "Chapter X ✦ Kept In Mind",
+      polaroidCaption: "Where I can simply be me 🫂",
+      quote: "Aapke saath mujhe kuch banne ki zarurat nahi padtii.",
+      chapter: "Chapter X ✦ Aapke Saath Comfort ❤️",
       theme: "lavender"
     },
     {
-      text: "The way you hold my hand like you never want to let go.",
+      text: "Aap kabhi kabhi itni genuinely innocent baat kar deti hoii ki main bas aapko dekhkar smile karta reh jaata hoon 🥺❤️.",
       secretNote: "When your fingers intertwine with mine, all my worries vanish. It's the sweetest promise in the universe.",
       emoji: "🤝", icon: "heart",
-      polaroidCaption: "Fingers laced forever",
-      quote: "Holding your hand is holding my whole world.",
-      chapter: "Chapter XI ✦ Hand In Hand",
+      polaroidCaption: "That innocent little smile 🥺❤️",
+      quote: "Aapki kuch baatein bina koshish ke hi mujhe smile kara deti hain.",
+      chapter: "Chapter XI ✦ Aapki Innocence 🌸",
       theme: "blush"
     },
     {
-      text: "Simply because being with you feels like coming home.",
+      text: "Main jitna reasons dhoondhta hoon naaa utna hi lagta hai ki aapko sirf kuch qualities ki wajah se pyaar nahi kartaaa mujhe aap aap hone ki wajah se pyaari hoii 🥺❤️.",
       secretNote: "No matter where we are in the world, as long as I'm with you, I am home. I love you with all my heart, forever.",
       emoji: "🏡", icon: "home",
-      polaroidCaption: "Coming home to you",
-      quote: "With you, I have found my forever sanctuary.",
-      chapter: "Chapter XII ✦ Forever & Always",
+      polaroidCaption: "12 reasons, but you’ll always be my favourite one betuuu🥺❤️",
+      quote: "Shayad sabse sachha reason yahi haiii ki mujhe aapki koi ek cheez nahi… aap poori ki poori pyaari hoi.",
+      chapter: "Chapter XII ✦ Bas AAP ❤️🧿",
       theme: "rose"
     }
   ];
@@ -265,7 +265,7 @@
   function updateLeftPage(idx) {
     const item = reasons[idx] || reasons[0];
     polaroidCaption.textContent = item.polaroidCaption || 'A quiet moment';
-    handwrittenNote.textContent = `"${item.quote || 'In all the world, there is no heart for me like yours babyyy.'}"`;
+    handwrittenNote.textContent = `"${item.quote || 'Mujhe aapko badalne ki zarurat kabhi mehsoos nahi huiii jaaaan.'}"`;
     chapterLabel.textContent = item.chapter || `Chapter ${idx + 1}`;
 
     if (openBookEl) openBookEl.setAttribute('data-theme', item.theme || 'rose');
