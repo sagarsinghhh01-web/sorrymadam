@@ -12,7 +12,7 @@
       secretNote: "Every time your laugh fills the room, my whole world lights up. Your joy is my favourite melody in the universe.",
       emoji: "😂", icon: "star",
       polaroidCaption: "The sound of your pure joy",
-      quote: "In all the world, there is no heart for me like yours.",
+      quote: "In all the world, there is no heart for me like yours babyyyyy.",
       chapter: "Chapter I ✦ Pure Sunshine",
       theme: "rose"
     },
@@ -265,7 +265,7 @@
   function updateLeftPage(idx) {
     const item = reasons[idx] || reasons[0];
     polaroidCaption.textContent = item.polaroidCaption || 'A quiet moment';
-    handwrittenNote.textContent = `"${item.quote || 'In all the world, there is no heart for me like yours.'}"`;
+    handwrittenNote.textContent = `"${item.quote || 'In all the world, there is no heart for me like yours babyyy.'}"`;
     chapterLabel.textContent = item.chapter || `Chapter ${idx + 1}`;
 
     if (openBookEl) openBookEl.setAttribute('data-theme', item.theme || 'rose');
