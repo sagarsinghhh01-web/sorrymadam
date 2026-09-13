@@ -26,7 +26,7 @@
       theme: "navy"
     },
     {
-      text: "Sach bolun toh aapka gussa bhi mujhe bura nahi lagtaaa bachaaa kyunki usme bhi aapki feelings hoti hai❤️",
+      text: "Sach bolun toh aapka gussa bhi mujhe bura nahi lagtaaa bachaaa kyunki usme bhi aapki feelings hoti hai jaaaan❤️",
       secretNote: "I keep every note you ever write me in a little box. Each word is a warm reminder of how deeply you care.",
       emoji: "💌", icon: "letter",
       polaroidCaption: "Even your angry little moments 🥺❤️",
@@ -35,7 +35,7 @@
       theme: "blush"
     },
     {
-      text: "Aapki genuine smile dekhkar pata nahi kyun mere face par bhi smile aa jaati haiii… bina kisi reason ke 🥺🫂.",
+      text: "Aapki genuine smile dekhkar pata nahi kyu mere face par bhi smile aa jaati haii betaaaa bina kisi reason ke 🥺🫂.",
       secretNote: "Watching you speak with passion is breathtaking. You radiate a sparkle that inspires me every single day.",
       emoji: "✨", icon: "sparkle",
       polaroidCaption: "That smile I can never get enough of ❤️",
@@ -44,7 +44,7 @@
       theme: "peach"
     },
     {
-      text: "Jab aap chup ho jaati ho naaa bachaa toh bas mann karta hai aapke paas rahun bina zyada kuch poocheee ❤️.",
+      text: "Jab aap chup ho jaati ho naaa bachaa toh bas mann karta hai aapke paas rahun bina zyada kuch pucheee merii jaaaan❤️.",
       secretNote: "Your empathy is boundless. The genuine kindness you show to others makes me fall in love with you all over again.",
       emoji: "💖", icon: "heart",
       polaroidCaption: "Even your silence feels special 🤍",
@@ -53,7 +53,7 @@
       theme: "rose"
     },
     {
-      text: "Aap kaise baat karti hoii kaise react karti hoii… pata nahi kyun aapki chhoti chhoti cheezein bhi mujhe yaad reh jaati hainii 🥺❤️.",
+      text: "Aapki kuch baatein naaa itni innocent hoti h ki ma chaah kar bhi smile rok nahi pataaa betaaa😭😚or wahi chhoti chhoti innocent moments mujhe aapke or kareeb feel karwate h🫂.",
       secretNote: "Even when life gets heavy, your courage and perseverance shine through. You are the strongest person I know.",
       emoji: "🌿", icon: "leaf",
       polaroidCaption: "Little things that became my favourites 🌸",
@@ -62,7 +62,7 @@
       theme: "navy"
     },
     {
-      text: "Aapki woh chhoti chhoti cute harkatein dekhkar bas aapko aur pamper karne ka mann karta haiii 😭❤️.",
+      text: "Aapki woh chhoti chhoti cute harkatein dekhkar bas aapko or pamper karne ka mann karta haiii jaaaaan 😭❤️.",
       secretNote: "A quiet sunset, a cup of coffee, a stray flower — you teach me to appreciate every sweet whisper of life.",
       emoji: "🌸", icon: "flower",
       polaroidCaption: "My favourite little version of you 🥺",
@@ -71,7 +71,7 @@
       theme: "blush"
     },
     {
-      text: "Aap shayad usse normal samajhkar kar deti hoii… par main usme aapki sincerity feel karta hoon ❤️.",
+      text: "Aap jab meri chhoti si bhi care karti ho naaa betuuu mujhe woh bahut special lagta haiii🥺❤️ kyuki usse mujhe feel hota hai ki ma aapke liye bahuttt important huuu 🫂🫀.",
       secretNote: "Hearing your sleepy morning voice instantly makes any day better. You are my morning sun and my evening star.",
       emoji: "☀️", icon: "sun",
       polaroidCaption: "Your little ways of caring ❤️",
@@ -80,7 +80,7 @@
       theme: "peach"
     },
     {
-      text: "Aapki yahi baat mujhe achhi lagti haiii… chahe baat achhi ho ya buri aapke words me aapki real feelings hoti hainii 🥺.",
+      text: "betaa ptaa h Aapki yahi baat mujhe achhi lagti h ki chahe baat achhi ho ya buri aapke words me aapki real feelings hoti h🥺.",
       secretNote: "You have an aura of comfort and warmth that pulls everyone in. Just being near you feels like a warm embrace.",
       emoji: "🕯️", icon: "candle",
       polaroidCaption: "Always real, always you 🤍",
@@ -89,12 +89,12 @@
       theme: "rose"
     },
     {
-      text: "Aapse baat karte waqt main bas main reh sakta hoon… aur honestly yeh feeling har kisi ke saath nahi miltiii 🫂.",
+      text: "Aapme jo cheezein aapko khud pasand nahi h naa bachaa zaruri nahi ki mujhe bhi woh buri lage balki mere liye aap or aapkaa sara baat zaroori h jaaaaan❤️🫂.",
       secretNote: "The way you listen with your whole heart makes me feel so cherished and understood. You never miss a thing.",
       emoji: "🌟", icon: "star",
       polaroidCaption: "Where I can simply be me 🫂",
-      quote: "Aapke saath mujhe kuch banne ki zarurat nahi padtii.",
-      chapter: "Chapter X ✦ Aapke Saath Comfort ❤️",
+      quote: "Aapke saath main bina kuch soche bachaaa bas khud khusss rehtaa huuu meriii ppyariii betuuuu 🫂❤️.",
+      chapter: "Chapter X ✦ Aapki Khubiyan or Kamiyaan 🤍hi aapko meri nazar mein perfect banati h betuuuu🫂",
       theme: "lavender"
     },
     {
@@ -102,17 +102,17 @@
       secretNote: "When your fingers intertwine with mine, all my worries vanish. It's the sweetest promise in the universe.",
       emoji: "🤝", icon: "heart",
       polaroidCaption: "That innocent little smile 🥺❤️",
-      quote: "Aapki kuch baatein bina koshish ke hi mujhe smile kara deti hain.",
-      chapter: "Chapter XI ✦ Aapki Innocence 🌸",
+      quote: "Mujhe aap perfect nahi chahiye mujhe bas aap chahiyee betuuuuu🫂.",
+      chapter: "Chapter XI ✦ Aapke Saath Comfort❤️ ",
       theme: "blush"
     },
     {
-      text: "Main jitna reasons dhoondhta hoon naaa utna hi lagta hai ki aapko sirf kuch qualities ki wajah se pyaar nahi kartaaa mujhe aap aap hone ki wajah se pyaari hoii 🥺❤️.",
+      text: "Ma jitne reasons dhoondhta huu naaa betuuu utna hi lagta hai ki aapko pyaar karne ke liye mujhe koi reason chahiye hi nahi🥺❤️bas aap meri Betuuu ho or mujhe aap bahuttt zyada pyaari ho 🫂🫀.",
       secretNote: "No matter where we are in the world, as long as I'm with you, I am home. I love you with all my heart, forever.",
       emoji: "🏡", icon: "home",
       polaroidCaption: "12 reasons, but you’ll always be my favourite one betuuu🥺❤️",
       quote: "Shayad sabse sachha reason yahi haiii ki mujhe aapki koi ek cheez nahi… aap poori ki poori pyaari hoi.",
-      chapter: "Chapter XII ✦ Bas AAP ❤️🧿",
+      chapter: "Chapter XII ✦ sabse bada reason AAP MERI BETUUUU HO🥺❤️🫀🧿",
       theme: "rose"
     }
   ];
